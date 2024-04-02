@@ -20,7 +20,7 @@ class ViewController: UIViewController, CLLocationManagerDelegate {
     
     var URL_LATITUDE = "30.6099"
     var URL_LONGITUDE = "76.2307"
-    let URL_API_KEY = "2600f9b68b5b43e1318a96e8a9a1470c"
+    let URL_API_KEY = "API_key"
     var URL_GET_ONE_CALL = ""
     let URL_BASE = "https://api.openweathermap.org/data/2.5"
     
